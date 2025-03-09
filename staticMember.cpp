@@ -11,8 +11,8 @@ int base:: a = 1;
 int main()
 {
     cout << base::a<<endl;
-    base::a = 12;s
-    
+    base::a = 12;
+
     cout << base::a<<endl;
 
 }
