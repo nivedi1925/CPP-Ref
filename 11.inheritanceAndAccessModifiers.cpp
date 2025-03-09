@@ -39,7 +39,6 @@ int main()
     Child c;
     cout << c.test_variable;
     c.display();
-
-
-
+    
 }
+
